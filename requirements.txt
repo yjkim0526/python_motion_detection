@@ -1,0 +1,8 @@
+# Python >= 3.7, < 3.10
+torch>=1.7.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=7.1.2
+pandas>=1.1.4
+pyinstaller==6.5.0
+ultralytics>=8.0.0 
