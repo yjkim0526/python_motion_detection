@@ -65,9 +65,9 @@ python motion_detection4.py
 
 ## 주의사항
 
-1. CCTV 스트림 URL 설정 필요
-2. 첫 실행 시 YOLOv8 모델 다운로드로 인한 지연 발생 가능
-3. GPU 사용 시 성능 향상
+1. CCTV 스트림 URL 설정 필요 ( 공공데이터포털 : "rtsp://210.99.70.120:1935/live/cctv002.stream" 사용 )
+3. 첫 실행 시 YOLOv8 모델 다운로드로 인한 지연 발생 가능
+4. GPU 사용 시 성능 향상
 
 ## 성능 최적화 팁
 
